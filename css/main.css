@@ -22,9 +22,6 @@ body {
 
 /* Main */
 
-.container {
-}
-
 .main-content {
     background-color: #fff;
     display: flex;
@@ -38,9 +35,6 @@ body {
     width: 380px;
     background-color: #403b58;
     padding: 40px 30px 30px 30px;
-}
-
-.hero-content {
 }
 
 .hero-content-heading {
@@ -85,9 +79,6 @@ body {
 .main-content-c {
     width: 560px;
     padding: 40px 30px 30px 30px;
-}
-
-.main-content-hero {
 }
 
 .main-content-hero-text {
