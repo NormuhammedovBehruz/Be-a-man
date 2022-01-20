@@ -54,10 +54,11 @@ body {
     margin: 0;
 }
 
-.hero-content-heding::before {
-    width: 80px;
+.div10::before {
+    content: "";
+    width: 60px;
     height: 3px;
-    background-color: #ff0000;
+    background-color: #d45454;
     border: 0;
     display: inline-block;
 }
